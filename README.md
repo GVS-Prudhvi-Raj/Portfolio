@@ -3,7 +3,7 @@
 A dynamic, animated, and fully responsive portfolio website built to showcase my projects and skills as a developer.
 
 ## Live Demo
-[Visit My Portfolio](your-live-link-here)
+[Visit My Portfolio](https://gvs-prudhvi-raj.github.io/Portfolio/)
 
 ## GitHub Repository
 [View Source Code](your-github-repo-link)
@@ -27,3 +27,4 @@ A dynamic, animated, and fully responsive portfolio website built to showcase my
 1.  Clone the repository: `git clone your-github-repo-link`
 2.  Open `index.html` in your favorite web browser.
 3.  Enjoy exploring my work!
+
